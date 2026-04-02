@@ -150,3 +150,4 @@ loop.close()                             # 이벤트 루프를 닫음
 end = time()
 print('실행 시간: {0:.3f}초'.format(end - begin))
 
+print('hello')
