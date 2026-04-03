@@ -151,3 +151,4 @@ end = time()
 print('실행 시간: {0:.3f}초'.format(end - begin))
 
 print('hello')
+print('hello')
